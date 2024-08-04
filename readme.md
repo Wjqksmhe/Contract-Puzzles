@@ -1,4 +1,4 @@
-All five test passed
+All five test passed...
 
 ## Contract Puzzles
 
