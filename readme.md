@@ -1,3 +1,5 @@
+All five test passed
+
 ## Contract Puzzles
 
 The goal of the Smart Contract puzzles is to work on reading smart contracts and writing good tests to modify those smart contracts.
